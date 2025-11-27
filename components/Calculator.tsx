@@ -87,7 +87,7 @@ const Calculator: React.FC = () => {
                Pare de parecer iniciante. Tenha uma presença digital do tamanho do seu nome.
              </h3>
              <a 
-               href={`https://wa.me/5511999999999?text=${whatsappMessage}`}
+               href={`https://wa.me/5521969142576?text=${whatsappMessage}`}
                target="_blank"
                rel="noopener noreferrer"
                className="inline-flex items-center gap-3 px-8 py-4 bg-gold-600 text-white font-serif text-lg tracking-wide hover:bg-gold-700 transition-all duration-300 shadow-lg hover:shadow-gold-600/20"
